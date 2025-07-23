@@ -36,4 +36,3 @@ Questo progetto è una semplice applicazione web realizzata con **Flask**, che c
 ### ✅ Obiettivo del progetto
 
 Questo progetto è stato realizzato a scopo **didattico** per approfondire le basi dello sviluppo web con Flask e la gestione dei form in backend.
-# miniProjectPython
